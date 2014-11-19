@@ -1,0 +1,18 @@
+# Arch linux packages
+*.tar
+*.tar.*
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+
+# AUR metadata
+.AURINFO
+
+pkg/
+src/
+
+# Other
+a/
+b/
