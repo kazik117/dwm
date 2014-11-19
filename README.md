@@ -18,3 +18,4 @@ My customizations and patchset for DWM.
 
 -   Pertag
 
+-   Bottom stack
